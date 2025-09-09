@@ -1,0 +1,121 @@
+id,text,pos_hits,neg_hits,score,label
+0,I hate this,0,1,-1,Negative
+1,This made my day.,0,0,0,Neutral
+2,Feeling bad today ...,0,1,-1,Negative
+3,I hate this!,0,1,-1,Negative
+4,I love this ...,1,0,1,Positive
+5,Delicious and perfect.,2,0,2,Positive
+6,Frustrated and tired!,0,2,-2,Negative
+7,Reading documentation,0,0,0,Neutral
+8,Frustrated and tired.,0,2,-2,Negative
+9,Great job team!,1,0,1,Positive
+10,What a fantastic result :),1,0,1,Positive
+11,Pushing code to GitHub :),0,0,0,Neutral
+12,Learning new tools :(,0,0,0,Neutral
+13,Negative vibes!,0,1,-1,Negative
+14,Terrible experience ...,0,1,-1,Negative
+15,Feeling great today!,1,0,1,Positive
+16,Not proud of this!,1,0,1,Positive
+17,Writing a report!,0,0,0,Neutral
+18,Highly recommended,1,0,1,Positive
+19,Reading documentation :),0,0,0,Neutral
+20,Excited to learn more,1,0,1,Positive
+21,This is a sample text!,0,0,0,Neutral
+22,Awful idea ...,0,1,-1,Negative
+23,Awful idea :(,0,1,-1,Negative
+24,This made my day,0,0,0,Neutral
+25,This is awesome.,1,0,1,Positive
+26,Attending an online class :),0,0,0,Neutral
+27,Feeling bad today.,0,1,-1,Negative
+28,Pushing code to GitHub,0,0,0,Neutral
+29,So satisfied with the outcome :(,1,0,1,Positive
+30,This is a sample text :(,0,0,0,Neutral
+31,Super happy with the progress.,1,0,1,Positive
+32,Frustrated and tired,0,2,-2,Negative
+33,Negative vibes :),0,1,-1,Negative
+34,Super happy with the progress ...,1,0,1,Positive
+35,This is terrible!,0,1,-1,Negative
+36,Brilliant idea,1,0,1,Positive
+37,Feeling bad today :(,0,1,-1,Negative
+38,Highly recommended ...,1,0,1,Positive
+39,I love this,1,0,1,Positive
+40,Frustrated and tired,0,2,-2,Negative
+41,Proud of this work :(,1,0,1,Positive
+42,I love this,1,0,1,Positive
+43,I am testing a script ...,0,0,0,Neutral
+44,Checking the results!,0,0,0,Neutral
+45,I am testing a script,0,0,0,Neutral
+46,Absolutely horrible.,0,1,-1,Negative
+47,Brilliant idea ...,1,0,1,Positive
+48,Running experiments ...,0,0,0,Neutral
+49,Pushing code to GitHub :),0,0,0,Neutral
+50,What a disappointing result :),0,1,-1,Negative
+51,Writing a report :),0,0,0,Neutral
+52,This made my day ...,0,0,0,Neutral
+53,Today is Wednesday,0,0,0,Neutral
+54,Feeling bad today ...,0,1,-1,Negative
+55,Reading documentation,0,0,0,Neutral
+56,Awful idea :),0,1,-1,Negative
+57,Disgusting and awful.,0,2,-2,Negative
+58,Attending an online class,0,0,0,Neutral
+59,Not proud of this :(,1,0,1,Positive
+60,This is a sample text :),0,0,0,Neutral
+61,Not recommended!,1,0,1,Positive
+62,Feeling great today :),1,0,1,Positive
+63,This made my day ...,0,0,0,Neutral
+64,Feeling great today,1,0,1,Positive
+65,This ruined my day!,0,1,-1,Negative
+66,Writing a report :),0,0,0,Neutral
+67,This made my day :),0,0,0,Neutral
+68,Absolutely horrible ...,0,1,-1,Negative
+69,So satisfied with the outcome.,1,0,1,Positive
+70,Attending an online class :(,0,0,0,Neutral
+71,What a fantastic result,1,0,1,Positive
+72,Disgusting and awful :(,0,2,-2,Negative
+73,This is terrible,0,1,-1,Negative
+74,What a disappointing result!,0,1,-1,Negative
+75,Poor job team!,0,1,-1,Negative
+76,Absolutely wonderful ...,1,0,1,Positive
+77,Disgusting and awful.,0,2,-2,Negative
+78,This made my day!,0,0,0,Neutral
+79,What a disappointing result!,0,1,-1,Negative
+80,I hate this!,0,1,-1,Negative
+81,Writing a report.,0,0,0,Neutral
+82,So satisfied with the outcome :(,1,0,1,Positive
+83,Positive vibes only!,1,0,1,Positive
+84,I love this :(,1,0,1,Positive
+85,Highly recommended :),1,0,1,Positive
+86,So dissatisfied with the outcome.,0,1,-1,Negative
+87,Absolutely wonderful!,1,0,1,Positive
+88,This is terrible,0,1,-1,Negative
+89,This is awesome ...,1,0,1,Positive
+90,Awful idea!,0,1,-1,Negative
+91,Today is Wednesday.,0,0,0,Neutral
+92,Feeling great today,1,0,1,Positive
+93,Need to refactor code!,0,0,0,Neutral
+94,Pushing code to GitHub.,0,0,0,Neutral
+95,This is terrible ...,0,1,-1,Negative
+96,Great job team :),1,0,1,Positive
+97,Great job team.,1,0,1,Positive
+98,Super happy with the progress,1,0,1,Positive
+99,Not recommended :),1,0,1,Positive
+100,Running experiments!,0,0,0,Neutral
+101,What a fantastic result!,1,0,1,Positive
+102,Frustrated and tired.,0,2,-2,Negative
+103,Running experiments!,0,0,0,Neutral
+104,Data loaded successfully :),0,0,0,Neutral
+105,Proud of this work ...,1,0,1,Positive
+106,Attending an online class,0,0,0,Neutral
+107,Not proud of this,1,0,1,Positive
+108,Super happy with the progress :),1,0,1,Positive
+109,What a fantastic result,1,0,1,Positive
+110,Frustrated and tired :),0,2,-2,Negative
+111,Poor job team.,0,1,-1,Negative
+112,Frustrated and tired ...,0,2,-2,Negative
+113,This is terrible!,0,1,-1,Negative
+114,Frustrated and tired!,0,2,-2,Negative
+115,Super happy with the progress,1,0,1,Positive
+116,Reading documentation,0,0,0,Neutral
+117,Disgusting and awful ...,0,2,-2,Negative
+118,Feeling great today,1,0,1,Positive
+119,Checking the results!,0,0,0,Neutral
